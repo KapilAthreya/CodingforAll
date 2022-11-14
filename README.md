@@ -1,2 +1,2 @@
 # CodingforAll
-It consists of many hackerrank solutins
+It consists of many hackerrank solutions
