@@ -5,4 +5,6 @@ Upcomming solutions:
 
 ~~Palindrome index~~ **UPLOADED**
 
-Recursive Digit Sum
+~~Recursive Digit Sum~~ **UPLOADED**
+
+New Year Chaos
