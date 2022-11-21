@@ -7,4 +7,8 @@ Upcomming solutions:
 
 ~~Recursive Digit Sum~~ **UPLOADED**
 
-New Year Chaos
+~~Grid challenge ~~ **UPLOADED**
+
+New Year Chaos 
+
+
