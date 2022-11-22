@@ -9,6 +9,8 @@ Upcomming solutions:
 
 ~~Grid challenge~~ **UPLOADED**
 
+~~Truck tour~~ **UPLODED**
+
 New Year Chaos 
 
 
