@@ -11,6 +11,8 @@ Upcomming solutions:
 
 ~~Truck tour~~ **UPLODED**
 
+~~Compare triplets~~ **UPLODED**
+
 New Year Chaos 
 
 
